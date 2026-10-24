@@ -1,4 +1,4 @@
-# MediCore: Serverless Hospital Management System on Amazon DynamoDB
+# MediCore: Serverless Hospital Information System on Amazon DynamoDB
 
 A cloud-native hospital management web app built on AWS. It manages patients, doctors and appointments using a single-table Amazon DynamoDB design, a Python AWS Lambda backend, an Amazon API Gateway HTTP API, and a static web frontend hosted on Amazon S3.
 
